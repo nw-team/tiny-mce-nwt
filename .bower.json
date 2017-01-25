@@ -1,5 +1,5 @@
 {
-  "name": "tinymce",
+  "name": "tiny-mce-nwt",
   "description": "Web based JavaScript HTML WYSIWYG editor control.",
   "license": "LGPL-2.1",
   "keywords": [
@@ -18,14 +18,13 @@
     ".npmignore",
     "changelog.txt"
   ],
-  "version": "4.5.0",
-  "_release": "4.5.0",
+  "_release": "fe6afeaa3b",
   "_resolution": {
-    "type": "version",
-    "tag": "4.5.0",
-    "commit": "9d2f73868b5b576cc01f7508ba3dec605c863830"
+    "type": "branch",
+    "branch": "master",
+    "commit": "fe6afeaa3b36aba91e5f664924b7e5438ec5fccc"
   },
-  "_source": "https://github.com/tinymce/tinymce-dist.git",
-  "_target": "^4.5.0",
-  "_originalSource": "tinymce"
+  "_source": "https://github.com/nw-team/tiny-mce-nwt.git",
+  "_target": "*",
+  "_originalSource": "tiny-mce-nwt"
 }
